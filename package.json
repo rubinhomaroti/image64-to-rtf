@@ -1,0 +1,35 @@
+{
+  "name": "image64-to-rtf",
+  "version": "1.0.0",
+  "description": "Convert a base64 image to a RTF image code.",
+  "main": "index.js",
+  "keywords": [
+    "nodejs",
+    "rtf",
+    "image",
+    "convert",
+    "base64",
+    "image"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubinhomaroti/image64-to-rtf.git"
+  },
+  "author": "Rubinho Maroti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rubinhomaroti/image64-to-rtf/issues"
+  },
+  "homepage": "https://github.com/rubinhomaroti/image64-to-rtf#readme",
+  "files": [
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "dependencies": {
+    "imageinfo": "^1.0.4"
+  }
+}
